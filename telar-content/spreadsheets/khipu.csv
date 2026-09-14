@@ -1,0 +1,5 @@
+step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
+paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
+1,haptic-khipu-khipu,0.5087177135777661,0.48534729829772943,0.9,,What is this?,This is a Khipu - It is an ancient Andean record keeping device,,Learn more,khipu-learn-more.md,,,,,
+2,haptic-khipu-khipu,0.2713765749152389,0.39953323466825785,4.345238095238095,,What do the knots represent?,They represent numbers based on a decimal system,,Learn more,khipu-step2-layer1.md,,,,,
+3,haptic-khipu-khipu,0.561193318463585,0.30460502583666177,4.345238095238096,,What do the colours represent?,"The colours of the cords represent the categories, items and specific subjects of what is being recorded.",,,,,,,,
